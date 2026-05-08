@@ -14,7 +14,7 @@ Author: Mochamad Aditya Putra Yudha Kusuma
 *Take a screenshot of your Power BI dashboard and upload it to this repo*
 
 ### Tableau
-![Tableau Dashboard](ADD_YOUR_TABLEAU_SCREENSHOT_HERE.png)
+![Tableau Dashboard](Tableau_dash_overview.jpg)
 📎 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/aditya.putra5948/viz/DashboardforSupermarketsManagement/CustomerBehaviorandChannelPerformanceDashboard2?publish=yes)
 
 ---
