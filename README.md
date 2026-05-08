@@ -11,7 +11,7 @@ Author: Mochamad Aditya Putra Yudha Kusuma
 
 ### Power BI
 ![Power BI Dashboard](PowerBI_dash_screenshot.jpg)
-*Take a screenshot of your Power BI dashboard and upload it to this repo*
+
 
 ### Tableau
 ![Tableau Dashboard](Tableau_dash_overview.jpg)
