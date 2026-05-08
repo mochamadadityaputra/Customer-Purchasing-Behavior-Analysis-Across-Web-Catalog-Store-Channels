@@ -48,7 +48,7 @@ Understanding these differences enables more precise targeting — directing the
 ## Project Objectives
 
 - Identify behavioral differences in purchase frequency across Web, Catalog, and Store channels
-- Analyze how generational segments (Gen Z, Millennials, Gen X, Baby Boomers) interact with each channel differently
+- Analyze how generational segments (Millennials, Gen X, Baby Boomers) interact with each channel differently
 - Understand product category preferences across channels (Wine, Meat, Fruits, Fish, Sweets)
 - Translate EDA findings into concrete, channel-specific marketing recommendations
 - Deliver insights through an interactive Power BI dashboard for management use
@@ -107,7 +107,6 @@ Understanding these differences enables more precise targeting — directing the
 ### 2. Feature Engineering
 - Derived **Age** from `Year_Birth` and current year
 - Created **Generation** segments:
-  - Gen Z: 18–24 years old
   - Millennials: 25–40 years old
   - Gen X: 41–56 years old
   - Baby Boomers: 57–75 years old
@@ -158,7 +157,6 @@ Analysis structured around the central question: *Web vs Catalog vs Store — wh
 | **Baby Boomers** | **4.51** | **3.03** | **6.25** |
 | Gen X | 3.76 | 2.25 | 5.42 |
 | Millennials | 3.15 | 2.36 | 5.46 |
-| Gen Z | — | — | — |
 
 **Key pattern:** Baby Boomers are the most active buyers across every channel — store, web, and catalog. Millennials are consistently the lowest frequency buyers across all three channels.
 
